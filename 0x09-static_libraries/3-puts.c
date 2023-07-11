@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _puts - Check if a number is greater than 0
  * @str: The number to be checked
